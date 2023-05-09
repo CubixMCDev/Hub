@@ -1,0 +1,2 @@
+# Hub
+A PocketMine plugin
