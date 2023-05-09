@@ -1,0 +1,7 @@
+name: Hub
+description: A Hub plugin for CubixMC Bedrock Edition
+website: https://github.com/CubixMCDev
+author: Pipo
+version: 0.0.1
+api: 4.0.0
+main: cubixmc\Hub
